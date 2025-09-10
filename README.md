@@ -1,13 +1,11 @@
 ### <div align="center">I'm Horon, a student of Cloud Computing Technology Application 🚀.</div>  
   
 
-- 🌱 正在学习 Golang，尝试进入开发领域
-  
+- 🌱 Currently learning Go and aspiring to become a software developer.
 
-- 🔭  我能较为熟练的使用 Linux 以及部分运维软件
-  
+- 🔭 Proficient with Linux and various DevOps tools.
 
-- ❓ 还有很多需要学习的，一起进步！
+- ❓ Always eager to learn. Let's connect and grow together!
   
 
 <br/>  
